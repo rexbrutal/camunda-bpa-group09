@@ -14,7 +14,7 @@ After creating an account, click on the menu button (upper left corner at the mo
 
 Now create a new project (e.g. "BPA Group 9") and click on the project 
 
-Download the model and forms from GitHub
+Download the model and forms from [ressources](ressources/)
 
 Upload the files via the "Create new" -> "Upload files" Button
 
@@ -50,7 +50,7 @@ Or follow these steps:
 
 - Next click on "Run" on the upper right side next to "Deploy"
 
-  - Use input.json as input in the "Variables" field inside Run (pop-up window is called "Start instance")
+  - Use this [input](input.json) in the "Variables" field inside Run (pop-up window is called "Start instance")
 
   - Just copy-paste the content of the file into the field
 
