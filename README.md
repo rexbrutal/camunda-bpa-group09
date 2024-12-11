@@ -69,23 +69,30 @@ Or follow these steps:
  
   - Click on the red highlighted "delete" on the upper right corner to delete the instance
 
-&nbsp;
-&nbsp; 
-
-&nbsp; &nbsp; &nbsp; :partying_face: &nbsp; &nbsp; :partying_face: &nbsp; &nbsp; :partying_face: &nbsp; &nbsp; :partying_face:
-
-&nbsp; &nbsp; &nbsp; Congratulations!
-
-&nbsp; &nbsp; &nbsp; :cowboy_hat_face: &nbsp; &nbsp; :cowboy_hat_face: &nbsp; &nbsp; :cowboy_hat_face: &nbsp; &nbsp; :cowboy_hat_face:
- 
-You were able to simulate a Nozama order!
-
-&nbsp; &nbsp; &nbsp; :sunglasses: &nbsp; &nbsp; :sunglasses: &nbsp; &nbsp; :sunglasses: &nbsp; &nbsp; :sunglasses:
-
-&nbsp; Please shop with us again!
-
 ## Screencast
 
 The screencast can be found either linked in the report or here: https://box.hu-berlin.de/d/13e3f6c06ca5408b9cab/
 
+***
 
+## **🥳 Congratulations!** 🥳
+
+You successfully simulated a **Nozama Order**! 🎯💼
+
+### 🤠 We Tip Our Hats to You! 🤠
+
+Great work! You've shown exceptional skill in the world of shopping simulations. 🤓💻
+
+### 😎 Stay Cool and Shop Again! 😎
+
+At Nozama, we value your "virtual" patronage and can't wait to see you back for another shopping adventure. 🛒✨
+
+## **What Can You Do Next?** 🛠️
+
+- **Explore the Code:** Dive into the repository and see how things work behind the scenes. 🧑‍💻🔍
+- **Give Us a Star:** If you like this, don’t forget to star the repo! ⭐
+- **Create More Simulations:** Tinker, tweak, and simulate some more. Endless possibilities await! 🚀
+
+---
+
+### 🌟 Happy Shopping and Coding! 🌟
