@@ -79,15 +79,15 @@ You successfully simulated a **Nozama Order**! 🎯💼
 
 ### 🤠 We tip our hats to You! 🤠
 
-Great work! You've shown exceptional skill in the world of shopping simulations. 🤓💻
+Great work! You've shown exceptional skill in the world of shopping simulations 🤓💻
 
 ### 😎 Stay cool and Shop again! 😎
 
-At Nozama, we value your "virtual" patronage and can't wait to see you back for another shopping adventure. 🛒✨
+At Nozama, we value your "virtual" patronage and can't wait to see you back for another shopping adventure 🛒✨
 
 ## **What can You do next?** 🛠️
 
-- **Explore the Code:** Dive into the repository and see how things work behind the scenes. 🧑‍💻🔍
+- **Explore the Code:** Dive into the repository and see how things work behind the scenes! 🧑‍💻🔍
 - **Give Us a Star:** If you like this, don’t forget to star the repo! ⭐
 - **Create More Simulations:** Tinker, tweak, and simulate some more. Endless possibilities await! 🚀
 
