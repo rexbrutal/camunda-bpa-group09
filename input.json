@@ -1,0 +1,33 @@
+{
+    "example_order": {
+        "items": [
+            {
+                "product": "pencil",
+                "orderCount": 10,
+                "stockCount": 8,
+                "cost": 1.0
+            },
+            {
+                "product": "tablet",
+                "orderCount": 1,
+                "stockCount": 20,
+                "cost": 180.49
+            },
+            {
+                "product": "soccerball",
+                "orderCount": 2,
+                "stockCount": 96,
+                "cost": 22.50
+            }
+        ],
+        "customer": {
+            "name": "PeterParker",
+            "address": "Rudower Chausee",
+            "number": 26,
+            "postal_code": 12489,
+            "city": "Berlin",
+            "email": "your-email-here"
+        },
+        "duration": 2
+    }
+}
