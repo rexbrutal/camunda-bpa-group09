@@ -79,15 +79,15 @@ The screencast can be found either linked in the report or here: https://box.hu-
 
 You successfully simulated a **Nozama Order**! 🎯💼
 
-### 🤠 We Tip Our Hats to You! 🤠
+### 🤠 We tip our hats to You! 🤠
 
 Great work! You've shown exceptional skill in the world of shopping simulations. 🤓💻
 
-### 😎 Stay Cool and Shop Again! 😎
+### 😎 Stay cool and Shop again! 😎
 
 At Nozama, we value your "virtual" patronage and can't wait to see you back for another shopping adventure. 🛒✨
 
-## **What Can You Do Next?** 🛠️
+## **What can You do next?** 🛠️
 
 - **Explore the Code:** Dive into the repository and see how things work behind the scenes. 🧑‍💻🔍
 - **Give Us a Star:** If you like this, don’t forget to star the repo! ⭐
@@ -95,4 +95,4 @@ At Nozama, we value your "virtual" patronage and can't wait to see you back for 
 
 ---
 
-### 🌟 Happy Shopping and Coding! 🌟
+### 🌟 Happy shopping and coding! 🌟
