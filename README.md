@@ -36,7 +36,7 @@ Create a new cluster ("Create new cluster")
 
 * * *
 
-See [Screencast](https://github.com/rexbrutal/camunda-bpa-group09/edit/main/README.md#screencast) on how to simulate the example order!
+See [Screencast](https://github.com/rexbrutal/camunda-bpa-group09/blob/main/README.md#screencast) on how to simulate the example order!
 
 * * *
 
