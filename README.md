@@ -41,7 +41,7 @@ To run the process in Camunda first deploy and then run an instance. When asked 
             "number": 26,
             "postal_code": 12489,
             "city": "Berlin",
-            "email": "bpa.hu.ws2425@gmail.com"
+            "email": "your-email-here"
         },
         "duration": 2
     }
