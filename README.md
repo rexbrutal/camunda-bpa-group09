@@ -1,36 +1,33 @@
 # Ü2 – BPMN Specification with Camunda Exercise
 Deliverable 2 of Group 09 for the course "Busine Process Automation" at the university of Humboldt-University at Berlin.
 
-## Instructions
+## **Instructions**
 
-Since we do not have any backend code with e.g. springboot or similar there is not really a need for instructions after the model has been imported into Camunda.
+### Importing the Model into Camunda 8
 
-To import the model in Camunda 8, first sign up in camunda: https://camunda.com/de/
+Since we do not have any backend code with e.g. Spring Boot or similar, there is not really a need for instructions after the model has been imported into Camunda.
 
-Make sure to choose the free trial when signing up since this can't be changed afterwards.
-
-
-After creating an account, click on the menu button (upper left corner at the moment) and select "Modeler"
-
-Now create a new project (e.g. "BPA Group 9") and click on the project 
-
-Download the model and forms from [ressources](ressources/)
-
-Upload the files via the "Create new" -> "Upload files" Button
-
-Assign the "Order-to-Cash BPMN process model" as the main process (three points on the left side inside the project)
+1. To import the model in Camunda 8, first sign up in Camunda: https://camunda.com/de/
+2. Make sure to choose the free trial when signing up since this can't be changed afterwards.
 
 
-Create a cluster
+### Setting Up Your Project
 
-Open the menu and click on "Console"
+1. After creating an account, click on the menu button (upper left corner at the moment) and select "Modeler."
+2. Now create a new project (e.g., "BPA Group 9") and click on the project.
+3. Download the model and forms from [resources](resources/).
+4. Upload the files via the "Create new" -> "Upload files" Button.
+5. Assign the "Order-to-Cash BPMN process model" as the main process (three points on the left side inside the project).
 
-Click on "Clusters" in the tab (Dashboard - Clusters - Organization) next to the menu
 
-Create a new cluster ("Create new cluster")
-- Cluster name: "Test cluster"
-- Channels: Alpha (1)
-- Generations: Zeebe (8.7.0)
+### Creating a Cluster
+
+1. Open the menu and click on "Console."
+2. Click on "Clusters" in the tab (Dashboard - Clusters - Organization) next to the menu.
+3. Create a new cluster ("Create new cluster"):
+   - Cluster name: "Test cluster"
+   - Channels: Alpha (1)
+   - Generations: Zeebe (8.7.0)
 
 ### Simulation
 
