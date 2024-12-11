@@ -1,4 +1,4 @@
-# camunda-bpa-group09
+# Camunda-BPA-Group09
 Deliverable 2 of the group 09 for the course "Busine Process Automation" at the university of Humboldt-University at Berlin.
 
 ## Instructions
