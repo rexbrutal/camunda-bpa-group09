@@ -36,7 +36,7 @@ Create a new cluster ("Create new cluster")
 
 * * *
 
-See Screencast on how to simulate the example order!
+See [Screencast](https://github.com/rexbrutal/camunda-bpa-group09/edit/main/README.md#screencast) on how to simulate the example order!
 
 * * *
 
@@ -68,18 +68,20 @@ Or follow these steps:
  
   - Click on the red highlighted "delete" on the upper right corner to delete the instance
 
-:partying_face::partying_face::partying_face::partying_face:
+&nbsp;
+&nbsp; 
 
-Congratulations!
+&nbsp; &nbsp; &nbsp; :partying_face: &nbsp; &nbsp; :partying_face: &nbsp; &nbsp; :partying_face: &nbsp; &nbsp; :partying_face:
 
-:partying_face::partying_face::partying_face::partying_face:
+&nbsp; &nbsp; &nbsp; Congratulations!
+
+&nbsp; &nbsp; &nbsp; :cowboy_hat_face: &nbsp; &nbsp; :cowboy_hat_face: &nbsp; &nbsp; :cowboy_hat_face: &nbsp; &nbsp; :cowboy_hat_face:
  
-You were able to simulate a Nozama order-to-cash process!
+You were able to simulate a Nozama order!
 
+&nbsp; &nbsp; &nbsp; :sunglasses: &nbsp; &nbsp; :sunglasses: &nbsp; &nbsp; :sunglasses: &nbsp; &nbsp; :sunglasses:
 
-:partying_face::partying_face::partying_face::partying_face:
-
-Please shop with us again!
+&nbsp; Please shop with us again!
 
 ## Screencast
 
