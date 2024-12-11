@@ -72,7 +72,12 @@ The screencast can be found either linked in the report or here: https://box.hu-
 
 ***
 
-## **🥳 Congratulations!** 🥳
+<button onclick="document.getElementById('congrats-section').style.display='block'" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer; font-size: 16px;">Click Me for a Surprise! 🎁</button>
+
+
+<div id="congrats-section" style="display: none; margin-top: 20px;">
+   ## **🥳 Congratulations!** 🥳
+</div>
 
 You successfully simulated a **Nozama Order**! 🎯💼
 
