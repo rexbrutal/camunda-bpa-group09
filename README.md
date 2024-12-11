@@ -14,22 +14,28 @@ Download the model and forms from GitHub
 Upload the files via the "Create new" -> "Upload files" Button
 
 Assign the "Order-to-Cash BPMN process model" as the main process (three points on the left side inside the project)
+
 Create a cluster
 
 Open the main process "Order-to-Cash BPMN process model"
+
 Click "Deploy" on the upper right side
+
 Choose the created cluster and click "Deploy"
 
 Next click on "Run" on the upper right side next to "Deploy"
+
 Use input.json as input in the "Variables" field inside Run (pop-up window is called "Start instance")
+
 Just copy-paste the content of the file into the field
 
 Click on run (after filling the "Variables" field)
 
 See the process being executed in the Instance by clicking "View process instance" (small pop-up window with a link in the middle at the bottom of the screen)
+
 New tab with the running instance opens
 
-* See Screencast on how to simulate the example order *
+\* See Screencast on how to simulate the example order *
 
 ### More information:
 
