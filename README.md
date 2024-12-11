@@ -56,13 +56,14 @@ Or follow these steps:
 
   - Click on run (after filling the "Variables" field)
 
-  - See the process being executed in the Instance by clicking "View process instance" (small pop-up window with a link in the middle at the bottom of the screen)
+  - See the process being executed in the Instance by clicking "View process instance"
+    (small pop-up window with a link in the middle at the bottom of the screen)
 
 - New tab with the running instance opens
 
   - Handle the user tasks in the tasklist (To open the tasklist either click on a user task and click on "Open Tasklist" in the pop-up window or click on the menu and select "Tasklist")
  
-  - You can see the variables and executued tasks in the running instance (Green means executed (flow/arrows) - White means not yet executed)
+  - You can see the variables and executued tasks in the running instance (Green means executed (flow/arrows) and white means not yet executed)
  
   - After reaching the end event, no tasks should be left in the tasklist
  
