@@ -6,45 +6,80 @@ Deliverable 2 of the group 09 for the course "Busine Process Automation" at the 
 Since we do not have any backend code with e.g. springboot or similar there is not really a need for instructions after the model has been imported into Camunda.
 
 To import the model in Camunda 8, first sign up in camunda: https://camunda.com/de/
+
 Make sure to choose the free trial when signing up since this can't be changed afterwards.
 
+
 After creating an account, click on the menu button (upper left corner at the moment) and select "Modeler"
+
 Now create a new project (e.g. "BPA Group 9") and click on the project 
+
 Download the model and forms from GitHub
+
 Upload the files via the "Create new" -> "Upload files" Button
 
 Assign the "Order-to-Cash BPMN process model" as the main process (three points on the left side inside the project)
 
+
 Create a cluster
 
-Open the main process "Order-to-Cash BPMN process model"
+Open the menu and click on "Console"
 
-Click "Deploy" on the upper right side
+Click on "Clusters" in the tab (Dashboard - Clusters - Organization) next to the menu
 
-Choose the created cluster and click "Deploy"
+Create a new cluster ("Create new cluster")
+- Cluster name: "Test cluster"
+- Channels: Alpha (1)
+- Generations: Zeebe (8.7.0)
 
-Next click on "Run" on the upper right side next to "Deploy"
+### Simulation
 
-Use input.json as input in the "Variables" field inside Run (pop-up window is called "Start instance")
+* * *
 
-Just copy-paste the content of the file into the field
+See Screencast on how to simulate the example order!
 
-Click on run (after filling the "Variables" field)
+* * *
 
-See the process being executed in the Instance by clicking "View process instance" (small pop-up window with a link in the middle at the bottom of the screen)
+Or follow these steps: 
 
-New tab with the running instance opens
+- Open the main process "Order-to-Cash BPMN process model" in "Modeler"
 
-\* See Screencast on how to simulate the example order *
+- Click "Deploy" on the upper right side
 
-### More information:
+- Choose the created cluster and click "Deploy"
 
-Green means executed (flow/arrows) - White means not yet executed
+- Next click on "Run" on the upper right side next to "Deploy"
 
-To open the tasklist 
-- either click on a user task and click on "Open Tasklist" in the pop-up window
-- or click on the menu and select "Tasklist"
+  - Use input.json as input in the "Variables" field inside Run (pop-up window is called "Start instance")
 
+  - Just copy-paste the content of the file into the field
+
+  - Click on run (after filling the "Variables" field)
+
+  - See the process being executed in the Instance by clicking "View process instance" (small pop-up window with a link in the middle at the bottom of the screen)
+
+- New tab with the running instance opens
+
+  - Handle the user tasks in the tasklist (To open the tasklist either click on a user task and click on "Open Tasklist" in the pop-up window or click on the menu and select "Tasklist")
+ 
+  - You can see the variables and executued tasks in the running instance (Green means executed (flow/arrows) - White means not yet executed)
+ 
+  - After reaching the end event, no tasks should be left in the tasklist
+ 
+  - Click on the red highlighted "delete" on the upper right corner to delete the instance
+
+:partying_face::partying_face::partying_face::partying_face:
+
+Congratulations!
+
+:partying_face::partying_face::partying_face::partying_face:
+ 
+You were able to simulate a Nozama order-to-cash process!
+
+
+:partying_face::partying_face::partying_face::partying_face:
+
+Please shop with us again!
 
 ## Screencast
 
